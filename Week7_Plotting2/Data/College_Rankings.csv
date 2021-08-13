@@ -1,0 +1,601 @@
+Rank,Name,State,Type,Admit,Grad4,Cost,NeedAid,NonNeedAid,NNApercent,GradDebt,Salary,Year
+1,"Washington and Lee University, Lexington",VA,Liberal Arts,20,85,59202,41472,36293,14,23224,77600,2019
+2,"Princeton University, Princeton",NJ,Private,7,90,58660,42097,0,0,6600,75100,2019
+3,"Harvard University, Cambridge",MA,Private,6,86,61659,44430,20827,0,15117,87200,2019
+4,"Davidson College, Davidson",NC,Liberal Arts,22,90,61119,37170,23834,15,22000,58500,2019
+5,"Swarthmore College, Swarthmore",PA,Liberal Arts,17,89,62690,40314,37474,2,21866,49400,2019
+6,"Vanderbilt University, Nashville",TN,Private,13,88,61470,39953,22372,20,20790,60900,2019
+7,"Rice University, Houston",TX,Private,15,82,56703,34954,13730,21,22241,59900,2019
+8,"Pomona College, Claremont",CA,Liberal Arts,12,90,63670,41443,0,0,16273,52600,2019
+9,"Yale University, New Haven",CT,Private,6,87,63250,45710,0,0,14853,66000,2019
+10,"University of North Carolina at Chapel Hill, Chapel Hill",NC,Public,28,81,46017,14791,6784,8,18945,50400,2019
+11,"Duke University, Durham",NC,Private,11,87,64593,41910,20714,21,20556,76700,2019
+12,"Kenyon College, Gambier",OH,Liberal Arts,25,89,62930,38039,13311,22,20323,43700,2019
+13,"Williams College, Williamstown",MA,Liberal Arts,19,89,64090,43689,0,0,14170,58100,2019
+14,"Wesleyan University, Middletown",CT,Liberal Arts,24,87,64078,41532,48032,1,22959,50900,2019
+15,"California Institute of Technology, Pasadena",CA,Private,9,85,60084,37557,0,0,12104,74000,2019
+16,"Middlebury College, Middlebury",VT,Liberal Arts,17,89,62456,39238,0,0,17975,53400,2019
+17,"Massachusetts Institute of Technology, Cambridge",MA,Private,8,81,61434,37090,0,0,19064,91600,2019
+18,"Grinnell College, Grinnell",IA,Liberal Arts,28,85,59298,37153,16968,45,16315,45600,2019
+19,"Colgate University, Hamilton",NY,Liberal Arts,26,90,63580,41428,0,0,21405,61500,2019
+20,"Amherst College, Amherst",MA,Liberal Arts,14,87,64772,47243,0,0,14490,56800,2019
+21,"Stanford University, Stanford",CA,Private,5,76,61852,41620,8980,0,19230,80900,2019
+22,"Thomas Aquinas College, Santa Paula",CA,Liberal Arts,83,63,32500,15755,0,0,16263,0,2019
+23,"Emory University, Atlanta",GA,Private,27,84,60668,37657,22538,5,24741,59000,2019
+24,"University of Richmond, Richmond",VA,Liberal Arts,32,80,60310,37199,23692,28,22550,60800,2019
+25,"Vassar College, Poughkeepsie",NY,Liberal Arts,24,88,64230,43094,0,0,17476,47100,2019
+26,"Haverford College, Haverford",PA,Liberal Arts,25,88,65410,42621,0,0,15540,55600,2019
+27,"Dartmouth College, Hanover",NH,Private,12,88,65094,42263,0,0,21533,67100,2019
+28,"Bowdoin College, Brunswick",ME,Liberal Arts,15,86,62190,38978,1000,5,25503,54800,2019
+29,"Wellesley College, Wellesley",MA,Liberal Arts,30,82,62140,39988,0,0,12956,56700,2019
+30,"Carleton College, Northfield",MN,Liberal Arts,23,91,62846,34050,3095,15,18302,46100,2019
+31,"Brown University, Providence",RI,Private,9,85,63496,40917,9452,0,24300,59700,2019
+32,"Hamilton College, Clinton",NY,Liberal Arts,26,86,63370,38762,0,0,18941,57300,2019
+33,"University of Pennsylvania, Philadelphia",PA,Private,10,87,64776,40044,0,0,19442,78200,2019
+34,"Bates College, Lewiston",ME,Liberal Arts,25,84,63340,38921,0,0,18929,53500,2019
+35,"Cornell University, Ithaca",NY,Private,14,87,63684,37559,0,0,21411,70900,2019
+36,"Hillsdale College, Hillsdale",MI,Liberal Arts,53,70,35552,7905,5531,83,25502,0,2019
+37,"Colorado College, Colorado Springs",CO,Liberal Arts,18,82,61459,38469,11554,11,19756,41100,2019
+38,"Colby College, Waterville",ME,Liberal Arts,28,85,62462,41033,500,0,21958,53000,2019
+39,"Wheaton College, Wheaton",IL,Liberal Arts,69,80,43270,20255,6428,37,25939,42600,2019
+40,"Barnard College, New York",NY,Liberal Arts,24,82,63891,38842,0,0,17660,57400,2019
+41,"Macalester College, St. Paul",MN,Liberal Arts,36,85,60879,34527,11856,26,24156,45700,2019
+42,"University of Virginia, Charlottesville",VA,Public,29,87,55644,19406,7277,4,22933,58600,2019
+43,"Smith College, Northampton",MA,Liberal Arts,42,82,62558,38417,15982,12,24758,42700,2019
+44,"Whitman College, Walla Walla",WA,Liberal Arts,41,82,59102,28484,9104,55,19147,43000,2019
+45,"Northwestern University, Evanston",IL,Private,13,85,65603,37674,2480,8,19864,64100,2019
+46,"University of Notre Dame, Notre Dame",IN,Private,21,90,62825,33025,15804,12,26674,69400,2019
+47,"Georgetown University, Washington",DC,Private,17,91,64385,36878,0,0,22464,83300,2019
+48,"College of the Holy Cross, Worcester",MA,Liberal Arts,43,90,60624,32207,33808,4,28354,63700,2019
+49,"Claremont McKenna College, Claremont",CA,Liberal Arts,11,80,65225,40438,15732,10,23232,63600,2019
+50,"Harvey Mudd College, Claremont",CA,Liberal Arts,14,90,68055,35637,10546,46,24503,78600,2019
+51,"Pitzer College, Claremont",CA,Liberal Arts,13,80,64880,35293,4687,1,19422,45300,2019
+52,"University of Florida, Gainesville",FL,Public,47,67,39609,6778,2437,11,20642,51300,2019
+53,"Johns Hopkins University, Baltimore",MD,Private,15,88,64960,34462,30165,3,23627,69200,2019
+54,"Boston College, Chestnut Hill",MA,Private,34,88,63930,34729,19189,3,21099,67000,2019
+55,"Centre College, Danville",KY,Liberal Arts,72,80,49320,25491,18766,89,25994,45000,2019
+56,"Scripps College, Claremont",CA,Liberal Arts,27,80,65060,34792,19712,23,20060,47200,2019
+57,"Washington University in St. Louis, St. Louis",MO,Private,17,90,64350,35555,8665,18,23858,62300,2019
+58,"Principia College, Elsah",IL,Liberal Arts,79,76,39250,24591,22664,91,23732,0,2019
+59,"Lafayette College, Easton",PA,Liberal Arts,30,88,62680,35412,23469,13,27497,69800,2019
+60,"Sewanee: The University of the South, Sewanee",TN,Liberal Arts,65,76,50650,26247,10883,48,21277,38200,2019
+61,"University of Minnesota, Twin Cities Campus, Minneapolis",MN,Public,45,59,32524,9388,4992,10,26796,47800,2019
+62,"Brigham Young University, Provo",UT,Private,47,30,18622,4897,3944,37,14021,57400,2019
+63,"St. Olaf College, Northfield",MN,Liberal Arts,51,86,53730,28644,13290,63,28396,44800,2019
+64,"Tufts University, Medford",MA,Private,17,88,65308,37147,500,3,26616,67800,2019
+65,"Truman State University, Kirksville",MO,Public,74,57,23475,6794,5322,60,23585,42700,2019
+66,"Mount Holyoke College, South Hadley",MA,Liberal Arts,55,76,57696,30707,16888,41,23914,44100,2019
+67,"Bucknell University, Lewisburg",PA,Liberal Arts,31,85,63268,24000,13808,15,22500,68800,2019
+68,"Oberlin College, Oberlin",OH,Liberal Arts,33,76,64646,32317,13167,67,25018,38400,2019
+69,"University of California, Berkeley, Berkeley",CA,Public,16,72,54801,22135,5925,4,17584,62700,2019
+70,"Lehigh University, Bethlehem",PA,Private,34,76,59510,32995,12424,9,31877,76800,2019
+71,"College of William and Mary, Williamsburg",VA,Public,33,83,53350,13914,6673,7,25733,56400,2019
+72,"Skidmore College, Saratoga Springs",NY,Liberal Arts,37,85,63492,38400,12000,1,22887,43100,2019
+73,"Denison University, Granville",OH,Liberal Arts,51,79,59510,34254,18537,92,27773,48600,2019
+74,"University of Wisconsin — Madison, Madison",WI,Public,50,56,39669,9890,3876,9,26579,51000,2019
+75,"North Carolina State University, Raleigh",NC,Public,51,44,36319,10015,6531,6,20482,47500,2019
+76,"University of California, Los Angeles, Los Angeles",CA,Public,19,73,53974,18806,4539,6,20759,59200,2019
+77,"University of Maryland, College Park, College Park",MD,Public,48,67,43246,8656,6657,19,25131,59100,2019
+78,"Kalamazoo College, Kalamazoo",MI,Liberal Arts,70,77,52552,26990,16358,85,28405,49400,2019
+79,"Wake Forest University, Winston-Salem",NC,Private,34,83,62078,35551,16055,10,34745,61000,2019
+80,"Ohio State University, Columbus",OH,Public,53,62,40279,9335,6418,29,26830,42600,2019
+81,"State University of New York College at Geneseo, Geneseo",NY,Public,59,66,30943,5718,2790,20,23308,46700,2019
+82,"Franklin & Marshall College, Lancaster",PA,Liberal Arts,39,83,64570,39564,12636,3,27474,54800,2019
+83,"University of Michigan, Ann Arbor",MI,Public,32,76,54078,15050,7536,25,26510,57900,2019
+84,"Florida State University, Tallahassee",FL,Public,55,61,32737,4940,2282,10,24347,44000,2019
+85,"Binghamton University, State University of New York, Vestal",NY,Public,44,68,36371,8065,7237,5,25727,58400,2019
+86,"Bryn Mawr College, Bryn Mawr",PA,Liberal Arts,40,76,62990,36402,10833,10,24466,50400,2019
+87,"Gustavus Adolphus College, St. Peter",MN,Liberal Arts,61,81,51696,26393,16668,100,36636,50100,2019
+88,"Trinity University, San Antonio",TX,Private,48,72,51218,25809,16583,81,35318,53200,2019
+89,"DePauw University, Greencastle",IN,Liberal Arts,61,75,57278,30895,16764,91,27005,47800,2019
+90,"University of Southern California, Los Angeles",CA,Private,18,76,65632,30656,19014,27,28541,66100,2019
+91,"University of Illinois at UrbanaChampaign, Champaign",IL,Public,59,69,42996,13591,4736,19,23808,56600,2019
+92,"University of Georgia, Athens",GA,Public,56,61,40122,8752,2161,11,21638,46500,2019
+93,"Berea College, Berea",KY,Liberal Arts,34,45,7680,3882,0,0,6186,34400,2019
+94,"Clark University, Worcester",MA,Private,54,72,50940,25826,16362,68,24990,44100,2019
+95,"New Mexico Institute of Mining and Technology, Socorro",NM,Public,36,22,27789,5509,6651,54,20944,52800,2019
+96,"University of Rochester, Rochester",NY,Private,36,73,63966,35076,13617,53,30604,55500,2019
+97,"Dickinson College, Carlisle",PA,Liberal Arts,48,81,62941,32786,10151,31,25392,52100,2019
+98,"Illinois Wesleyan University, Bloomington",IL,Liberal Arts,60,75,53086,23480,15760,91,32101,54600,2019
+99,"Gettysburg College, Gettysburg",PA,Liberal Arts,45,80,61400,32458,12401,42,27714,52200,2019
+100,"College of Wooster, Wooster",OH,Liberal Arts,59,70,56600,29657,19329,89,24506,44400,2019
+101,"Reed College, Portland",OR,Liberal Arts,39,67,63580,39329,0,0,19151,36200,2019
+102,"Elon University, Elon",NC,Private,54,76,44070,13722,6603,28,27176,44500,2019
+103,"Santa Clara University, Santa Clara",CA,Private,49,78,60489,23155,13120,43,26759,67700,2019
+104,"Rhodes College, Memphis",TN,Liberal Arts,60,76,55095,26183,18642,84,27077,50300,2019
+105,"University of Washington, Seattle",WA,Public,55,61,46659,15000,5500,5,21532,52100,2019
+106,"Connecticut College, New London",CT,Liberal Arts,38,78,63965,35885,0,0,28321,51000,2019
+107,"Occidental College, Los Angeles",CA,Liberal Arts,42,80,64446,35661,9928,30,30427,50100,2019
+108,"Bentley University, Waltham",MA,Private,46,83,59805,29025,16761,33,30602,74900,2019
+109,"Union College, Schenectady",NY,Liberal Arts,41,80,63774,33915,9025,53,29586,61800,2019
+110,"College of New Jersey, Ewing",NJ,Public,49,73,40085,12074,5330,14,33635,56800,2019
+111,"Yeshiva University, New York",NY,Private,82,59,52004,26232,21840,36,24101,55600,2019
+112,"Creighton University, Omaha",NE,Private,73,71,47916,22665,14200,68,33428,57800,2019
+113,"Trinity College, Hartford",CT,Liberal Arts,33,79,64920,41684,24836,6,28237,56100,2019
+114,"Brandeis University, Waltham",MA,Private,35,85,64454,32276,17895,10,28855,58800,2019
+115,"Hope College, Holland",MI,Liberal Arts,82,70,40850,18044,8286,56,31717,43300,2019
+116,"Wofford College, Spartanburg",SC,Liberal Arts,77,71,51085,29598,15057,65,24999,46800,2019
+117,"New College of Florida, Sarasota",FL,Public,60,57,40076,8481,2293,80,17553,0,2019
+118,"Baruch College of the City University of New York, New York",NY,Public,28,35,34968,6870,5005,1,7737,54000,2019
+119,"Villanova University, Villanova",PA,Private,49,85,61273,29629,14067,11,35122,73700,2019
+120,"Georgia Institute of Technology, Atlanta",GA,Public,33,37,43912,9522,4367,11,24891,74000,2019
+121,"Muhlenberg College, Allentown",PA,Liberal Arts,53,81,57825,26007,11792,58,29702,56000,2019
+122,"Drake University, Des Moines",IA,Private,69,70,44392,16669,12889,72,31546,55700,2019
+123,"University of Miami, Coral Gables",FL,Private,38,69,59720,25950,18846,35,26793,52400,2019
+124,"University of Pittsburgh, Pittsburgh",PA,Public,53,65,40620,8085,11460,5,36466,48200,2019
+125,"Furman University, Greenville",SC,Liberal Arts,69,80,58734,31665,17166,68,25903,47500,2019
+126,"George Washington University, Washington",DC,Private,44,72,63760,29917,18756,36,31128,64500,2019
+127,"Transylvania University, Lexington",KY,Liberal Arts,83,63,44930,22883,15372,93,28079,41100,2019
+128,"University of South Florida, Tampa",FL,Public,47,39,27925,6897,2585,11,22719,41700,2019
+129,"California State University, Long Beach, Long Beach",CA,Public,36,15,25768,6538,2356,17,16579,46900,2019
+130,"Case Western Reserve University, Cleveland",OH,Private,38,64,59610,26983,22087,61,33343,67000,2019
+131,"University of California, San Diego, La Jolla",CA,Public,33,57,51825,17624,9195,4,21790,59600,2019
+132,"University of California, Santa Barbara, Santa Barbara",CA,Public,36,69,54271,17948,12066,4,21045,52000,2019
+133,"Appalachian State University, Boone",NC,Public,63,44,29222,8057,2768,5,21693,36600,2019
+134,"Lawrence University, Appleton",WI,Liberal Arts,73,66,53850,29111,18007,80,33755,42800,2019
+135,"Knox College, Galesburg",IL,Liberal Arts,68,73,51759,27887,15785,83,29085,41600,2019
+136,"University of Texas at Austin, Austin",TX,Public,40,52,46882,9118,6047,2,27207,52800,2019
+137,"Stony Brook University, State University of New York, Stony Brook",NY,Public,41,48,36867,7261,4230,8,24884,55500,2019
+138,"Miami University, Oxford",OH,Public,66,66,43771,8754,7043,45,28887,45800,2019
+139,"Drury University, Springfield",MO,Private,81,46,34495,14987,8263,77,25336,32200,2019
+140,"St. Lawrence University, Canton",NY,Liberal Arts,48,78,62865,31636,20225,76,26792,45500,2019
+141,"Virginia Polytechnic Institute and State University, Blacksburg",VA,Public,69,61,38525,6736,3526,19,27865,57900,2019
+142,"Pepperdine University, Malibu",CA,Private,35,75,63652,37293,18974,31,31884,61400,2019
+143,"University of Connecticut, Storrs",CT,Public,50,67,47932,8754,6519,23,24999,53900,2019
+144,"Clemson University, Clemson",SC,Public,53,61,42826,8590,5280,45,30213,49400,2019
+145,"Purdue University, West Lafayette",IN,Public,59,46,40054,11744,6697,17,28343,52600,2019
+146,"Agnes Scott College, Decatur",GA,Liberal Arts,68,73,49386,27245,22131,70,27763,39400,2019
+147,"Gonzaga University, Spokane",WA,Private,68,73,49917,19305,12083,87,29513,52800,2019
+148,"University of Texas at Dallas, Richardson",TX,Public,62,51,42472,8592,11813,26,19613,49500,2019
+149,"Emerson College, Boston",MA,Private,49,77,57752,17140,14675,18,23606,44800,2019
+150,"Lewis & Clark College, Portland",OR,Liberal Arts,67,71,57012,29334,13382,54,26556,43400,2019
+151,"Beloit College, Beloit",WI,Liberal Arts,69,71,53940,25688,17256,73,28768,37900,2019
+152,"Stevens Institute of Technology, Hoboken",NJ,Private,44,40,61690,13308,17765,78,26722,82800,2019
+153,"University of Minnesota, Morris, Morris",MN,Public,64,54,21550,9880,3727,26,24538,38800,2019
+154,"Rutgers University — New Brunswick, Piscataway",NJ,Public,60,59,42925,10995,8276,4,25228,54800,2019
+155,"Franciscan University of Steubenville, Steubenville",OH,Private,78,61,34280,9988,5438,55,32443,35500,2019
+156,"Cornell College, Mount Vernon",IA,Liberal Arts,74,64,47389,23447,18292,89,25004,41900,2019
+157,"Carnegie Mellon University, Pittsburgh",PA,Private,25,72,65895,30068,10867,6,31905,72000,2019
+158,"Earlham College, Richmond",IN,Liberal Arts,65,65,54710,30350,12143,32,27421,32300,2019
+159,"Boston University, Boston",MA,Private,35,80,63956,29854,17594,11,39166,60600,2019
+160,"Christendom College, Front Royal",VA,Liberal Arts,91,66,34410,8260,8785,46,31991,0,2019
+161,"Goshen College, Goshen",IN,Liberal Arts,54,56,41800,20195,13569,62,26586,36300,2019
+162,"Tulane University, New Orleans",LA,Private,28,70,64022,28233,21325,37,31653,52400,2019
+163,"Augustana College, Rock Island",IL,Liberal Arts,54,71,49212,20527,16568,95,31612,49600,2019
+164,"James Madison University, Harrisonburg",VA,Public,66,65,35414,7613,3172,1,23732,53400,2019
+165,"Samford University, Birmingham",AL,Private,82,48,38770,14046,9636,67,26543,45800,2019
+166,"Butler University, Indianapolis",IN,Private,68,62,50065,18704,11979,82,35797,52400,2019
+167,"University of Delaware, Newark",DE,Public,66,68,44366,8991,7037,38,32705,54300,2019
+168,"University of Portland, Portland",OR,Private,63,73,53112,21981,14965,83,26557,51700,2019
+169,"College of Saint Benedict, Saint Joseph",MN,Liberal Arts,82,74,52075,25770,15708,78,39437,47600,2019
+170,"St. Mary's College of Maryland, St. Mary's City",MD,Public,79,73,42025,10944,4021,30,24621,48200,2019
+171,"Sarah Lawrence College, Bronxville",NY,Liberal Arts,53,71,66225,34650,16582,63,18483,39700,2019
+172,"University of WisconsinLa Crosse, La Crosse",WI,Public,76,33,22659,5715,1583,4,25932,44100,2019
+173,"Hunter College of the City University of New York, New York",NY,Public,35,22,32771,6547,3152,7,13000,44800,2019
+174,"American University, Washington",DC,Private,46,76,58257,22757,13989,21,32546,55900,2019
+175,"New York University, New York",NY,Private,35,72,66400,24246,7512,9,27977,58800,2019
+176,"Hendrix College, Conway",AR,Liberal Arts,82,64,53214,28855,25756,91,30151,40500,2019
+177,"University of Maryland, Baltimore County, Baltimore",MD,Public,60,34,35838,7957,7964,20,25435,53500,2019
+178,"University of Central Florida, Orlando",FL,Public,50,40,33167,4953,3459,5,23378,43000,2019
+179,"Luther College, Decorah",IA,Liberal Arts,71,74,48150,22197,16062,33,36918,42500,2019
+180,"Texas A&M University, College Station",TX,Public,71,50,39553,9315,3354,19,25005,52900,2019
+181,"University of Missouri, Columbia",MO,Public,78,46,36098,8783,5065,29,25321,46000,2019
+182,"University of California, Irvine, Irvine",CA,Public,37,68,54154,17317,8541,6,20319,55800,2019
+183,"Saint John's University, Collegeville",MN,Liberal Arts,79,72,50830,25274,15184,74,38089,55900,2019
+184,"University of Alabama, Tuscaloosa",AL,Public,51,39,35950,9178,12209,30,29320,42400,2019
+185,"College of the Atlantic, Bar Harbor",ME,Liberal Arts,71,57,52116,31578,9693,44,23926,27000,2019
+186,"Siena College, Loudonville",NY,Liberal Arts,58,75,43272,17423,7106,55,32678,55100,2019
+187,"University of Arkansas, Fayetteville",AR,Public,62,37,32706,6706,4895,19,24120,43600,2019
+188,"University of Northern Iowa, Cedar Falls",IA,Public,54,38,27225,4351,3378,18,23163,41700,2019
+189,"University of Tulsa, Tulsa",OK,Private,40,52,51401,5862,17829,64,29161,43200,2019
+190,"William Jewell College, Liberty",MO,Liberal Arts,63,57,42010,19646,15269,46,29885,40300,2019
+191,"State University of New York College at Oneonta, Oneonta",NY,Public,43,53,30762,4709,2827,19,15373,42400,2019
+192,"University of Dayton, Dayton",OH,Private,59,59,52280,20508,12540,63,35278,52300,2019
+193,"Millsaps College, Jackson",MS,Liberal Arts,57,62,49022,23363,20354,90,29021,45200,2019
+194,"Southwestern University, Georgetown",TX,Liberal Arts,49,65,50258,26126,18514,91,30935,47200,2019
+195,"Maryville University of Saint Louis, St. Louis",MO,Private,72,49,38998,14323,9559,32,31696,44500,2019
+196,"State University of New York at New Paltz, New Paltz",NY,Public,42,55,30667,4840,1830,1,25874,46000,2019
+197,"Marist College, Poughkeepsie",NY,Private,39,68,49000,15447,7619,46,34801,54400,2019
+198,"University of Oklahoma, Norman",OK,Public,81,37,33932,5995,2108,14,23151,46600,2019
+199,"Austin College, Sherman",TX,Liberal Arts,54,72,49273,25926,19297,34,36952,47600,2019
+200,"Penn State University Park, University Park",PA,Public,50,66,44106,6987,3757,17,36935,47500,2019
+201,"Houghton College, Houghton",NY,Liberal Arts,94,66,38956,11583,9046,16,26923,39200,2019
+202,"Saint Louis University, St. Louis",MO,Private,60,61,51066,20291,13880,52,35615,55200,2019
+203,"Illinois Institute of Technology, Chicago",IL,Private,51,28,56066,28262,19854,65,31907,68200,2019
+204,"San Diego State University, San Diego",CA,Public,34,30,35766,9900,2300,8,18400,48700,2019
+205,"University of North Florida, Jacksonville",FL,Public,61,26,31159,6060,2970,16,19253,41600,2019
+206,"Oklahoma State University, Stillwater",OK,Public,75,35,30198,6615,5553,41,22591,43400,2019
+207,"University of Science and Arts of Oklahoma, Chickasha",OK,Public,64,26,21880,8191,2779,26,20074,30700,2019
+208,"Hobart and William Smith Colleges, Geneva",NY,Liberal Arts,50,74,62469,28390,15535,53,34209,48600,2019
+209,"University of Massachusetts Amherst, Amherst",MA,Public,61,63,43717,9653,4310,20,30453,49600,2019
+210,"University of North Carolina Wilmington, Wilmington",NC,Public,59,49,31105,2427,3853,0,25644,38700,2019
+211,"University of California, Davis, Davis",CA,Public,41,54,54752,16993,5626,9,19705,57100,2019
+212,"Marquette University, Milwaukee",WI,Private,67,59,49398,17782,10294,83,35211,55600,2019
+213,"Missouri University of Science and Technology, Rolla",MO,Public,86,23,36494,7460,5080,17,27591,65500,2019
+214,"University of Dallas, Irving",TX,Liberal Arts,85,63,48300,23392,16730,88,32755,45200,2019
+215,"University at Buffalo, the State University of New York, Buffalo",NY,Public,58,53,38718,5427,6158,2,21228,49700,2019
+216,"Iowa State University of Science and Technology, Ames",IA,Public,87,40,29960,6814,2916,52,28880,47200,2019
+217,"University of North Carolina at Asheville, Asheville",NC,Public,73,38,31901,6628,2654,10,21105,36000,2019
+218,"St. John's College, Annapolis",MD,Liberal Arts,87,67,60639,30564,19258,71,28730,34300,2019
+219,"University of Denver, Denver",CO,Private,76,66,57620,28597,14724,58,29050,51400,2019
+220,"Simmons College, Boston",MA,Private,52,67,52700,23636,14030,49,26000,51400,2019
+221,"University of Tennessee, Knoxville",TN,Public,75,39,42150,8961,3685,24,23870,42300,2019
+222,"Salisbury University, Salisbury",MD,Public,55,45,29742,5881,2322,21,24567,47300,2019
+223,"Wabash College, Crawfordsville",IN,Liberal Arts,70,68,50340,23431,16631,5,30734,49900,2019
+224,"Oklahoma City University, Oklahoma City",OK,Private,66,49,41908,16082,18931,50,27819,39400,2019
+225,"Michigan State University, East Lansing",MI,Public,66,53,46902,9587,8241,11,26122,49800,2019
+226,"Whitworth University, Spokane",WA,Private,75,65,50698,22974,16897,78,26132,41200,2019
+227,"Mercer University, Macon",GA,Private,67,50,47110,24043,19145,74,30018,46600,2019
+228,"University of Nebraska — Lincoln, Lincoln",NE,Public,70,33,33826,7097,6399,9,23395,43800,2019
+229,"University of San Diego, San Diego",CA,Private,46,67,58392,24438,14025,27,30225,56300,2019
+230,"Bradley University, Peoria",IL,Private,64,51,42380,15016,10012,70,27277,52400,2019
+231,"Purchase College, State University of New York, Purchase",NY,Public,41,58,31900,6514,2040,14,26348,34700,2019
+232,"University of South Carolina, Columbia",SC,Public,65,56,41712,5092,4924,51,28233,42100,2019
+233,"Juniata College, Huntingdon",PA,Liberal Arts,74,72,52740,24997,18054,80,33421,45200,2019
+234,"Union University, Jackson",TN,Private,69,59,39880,5886,12889,32,29187,37400,2019
+235,"State University of New York at Plattsburgh, Plattsburgh",NY,Public,48,40,30194,6626,3457,33,28149,40600,2019
+236,"Western Carolina University, Cullowhee",NC,Public,43,40,26714,6158,1780,8,23806,35100,2019
+237,"Providence College, Providence",RI,Private,63,83,59730,22860,20050,31,32475,59600,2019
+238,"Coe College, Cedar Rapids",IA,Liberal Arts,55,61,48590,25079,20313,64,31992,43800,2019
+239,"Florida International University, Miami",FL,Public,48,24,31122,5671,1316,7,18519,45100,2019
+240,"Wheaton College, Norton",MA,Liberal Arts,70,75,60805,31090,12486,71,29651,46400,2019
+241,"Arizona State University at the Tempe campus, Tempe",AZ,Public,84,43,37600,9007,7688,34,21920,45200,2019
+242,"St. John's College, Santa Fe",NM,Liberal Arts,81,42,60639,29288,10805,72,25570,32300,2019
+243,"Christopher Newport University, Newport News",VA,Public,56,55,35678,5647,2219,18,29385,42400,2019
+244,"Hollins University, Roanoke",VA,Liberal Arts,57,61,48535,28320,23067,81,37332,37000,2019
+245,"Rockhurst University, Kansas City",MO,Private,77,62,45890,3209,20636,20,24971,47600,2019
+246,"Duquesne University, Pittsburgh",PA,Private,73,65,46596,18059,10804,76,34522,54300,2019
+247,"Loyola Marymount University, Los Angeles",CA,Private,53,69,58663,19402,9432,50,30243,55600,2019
+248,"Belmont University, Nashville",TN,Private,83,56,40970,12096,7438,32,28306,39100,2019
+249,"Louisiana Tech University, Ruston",LA,Public,65,30,33022,8375,3011,16,16855,41100,2019
+250,"Southern Methodist University, Dallas",TX,Private,52,67,64765,19674,20479,49,34671,52200,2019
+251,"Loyola University Chicago, Chicago",IL,Private,63,65,54936,18875,13220,52,31089,50600,2019
+252,"University of Puget Sound, Tacoma",WA,Liberal Arts,79,68,57220,23410,14886,93,27776,51500,2019
+253,"Auburn University, Auburn University",AL,Public,83,42,41824,7440,6903,27,27782,45400,2019
+254,"LeTourneau University, Longview",TX,Private,49,35,39030,15122,8037,15,38211,50000,2019
+255,"Ramapo College of New Jersey, Mahwah",NJ,Public,53,58,35603,9129,10921,15,29972,48700,2019
+256,"Clarkson University, Potsdam",NY,Private,62,58,59890,29179,19191,74,28000,68400,2019
+257,"Louisiana State University and Agricultural & Mechanical College, Baton Rouge",LA,Public,77,39,39577,10097,5098,20,22294,45900,2019
+258,"Geneva College, Beaver Falls",PA,Private,71,53,36080,15189,9952,40,32673,37500,2019
+259,"Rensselaer Polytechnic Institute, Troy",NY,Private,38,61,66172,28527,15860,70,41814,81700,2019
+260,"Hanover College, Hanover",IN,Liberal Arts,64,66,46196,23577,18221,90,31004,44400,2019
+261,"Rochester Institute of Technology, Rochester",NY,Private,57,30,49564,19000,10000,38,26000,56900,2019
+262,"University of Louisville, Louisville",KY,Public,74,25,34192,8705,7908,20,23375,37700,2019
+263,"Fairfield University, Fairfield",CT,Private,72,77,59545,15682,15452,55,27918,69000,2019
+264,"Western Washington University, Bellingham",WA,Public,85,40,32421,9063,2020,3,21520,43200,2019
+265,"Syracuse University, Syracuse",NY,Private,53,69,59610,26770,10290,21,34584,56600,2019
+266,"Spelman College, Atlanta",GA,Liberal Arts,54,67,40751,14842,0,0,32910,46400,2019
+267,"Fordham University, New York",NY,Private,48,75,64679,23883,14594,44,35170,55400,2019
+268,"Valparaiso University, Valparaiso",IN,Private,82,60,47880,22433,13003,62,35449,48100,2019
+269,"Seattle Pacific University, Seattle",WA,Private,83,60,48480,25947,20277,66,28844,43900,2019
+270,"West Chester University of Pennsylvania, West Chester",PA,Public,53,44,29607,5562,4128,3,30881,46500,2019
+271,"Saint Michael's College, Colchester",VT,Private,80,73,53005,21999,14525,64,36967,46300,2019
+272,"Washington & Jefferson College, Washington",PA,Liberal Arts,42,72,55432,13270,15129,78,27000,49900,2019
+273,"University of St. Thomas, St. Paul",MN,Private,87,60,48525,18352,15098,24,37131,54300,2019
+274,"Centenary College of Louisiana, Shreveport",LA,Private,66,42,47450,21909,15863,98,27692,39300,2019
+275,"University of Mississippi, University",MS,Public,81,37,32002,7563,7363,33,26443,40600,2019
+276,"Loyola University Maryland, Baltimore",MD,Private,60,77,59925,22565,14675,27,34190,62100,2019
+277,"University of Evansville, Evansville",IN,Private,83,53,45386,22778,17045,60,29441,40000,2019
+278,"College at Brockport, State University of New York, Brockport",NY,Public,49,50,29944,5954,4010,4,27677,40100,2019
+279,"Baldwin Wallace University, Berea",OH,Private,64,51,39792,16201,12080,48,32526,44000,2019
+280,"Indiana University Bloomington, Bloomington",IN,Public,76,59,44765,10137,5446,36,27300,45300,2019
+281,"Chapman University, Orange",CA,Private,47,58,62650,15842,17071,44,27979,51800,2019
+282,"Texas Tech University, Lubbock",TX,Public,66,33,30872,7187,3289,14,27879,46100,2019
+283,"Towson University, Towson",MD,Public,59,43,33506,8316,4867,10,25926,49500,2019
+284,"Howard University, Washington",DC,Private,48,42,40784,7291,24835,25,32071,46500,2019
+285,"Lipscomb University, Nashville",TN,Private,56,45,41156,3799,13435,61,30480,39000,2019
+286,"St. John Fisher College, Rochester",NY,Private,68,61,43250,15060,10061,76,32982,44800,2019
+287,"St. Bonaventure University, St. Bonaventure",NY,Private,70,55,43317,18899,12572,91,35627,45200,2019
+288,"Rollins College, Winter Park",FL,Private,57,63,59914,26635,19134,55,26689,42200,2019
+289,"Colorado State University, Fort Collins",CO,Public,80,40,39201,6749,4214,17,23721,44300,2019
+290,"Georgia College & State University, Milledgeville",GA,Public,76,40,40630,4454,1610,3,22950,38500,2019
+291,"University of Colorado Boulder, Boulder",CO,Public,84,46,49119,10380,10019,33,25126,48000,2019
+292,"University of Iowa, Iowa City",IA,Public,81,48,38858,7623,4739,23,28716,48700,2019
+293,"Bethel University, St. Paul",MN,Private,95,63,45060,18217,10497,49,33685,44000,2019
+294,"University of Vermont, Burlington",VT,Public,73,65,51510,14736,8658,43,27276,44000,2019
+295,"University of California, Santa Cruz, Santa Cruz",CA,Public,57,55,54760,18125,5887,13,22583,44600,2019
+296,"Nazareth College of Rochester, Rochester",NY,Private,70,65,45803,15327,15594,70,35396,43900,2019
+297,"Xavier University, Cincinnati",OH,Private,73,63,47460,15745,13774,69,34365,48800,2019
+298,"University of California, Riverside, Riverside",CA,Public,58,44,55647,16766,12155,14,21166,48700,2019
+299,"University of Arizona, Tucson",AZ,Public,75,40,43670,10726,8099,30,22761,44400,2019
+300,"University of Oregon, Eugene",OR,Public,75,46,44877,7493,4014,21,24508,41600,2019
+1,"Washington and Lee University, Lexington",VA,Liberal Arts,19,83,60081,41532,36293,14,22660,77398,2020
+2,"Princeton University, Princeton",NJ,Private,7,93,58911,42009,0,0,6511,75090,2021
+3,"Harvard University, Cambridge",MA,Private,7,89,61019,44521,20827,0,15406,87227,2021
+4,"Davidson College, Davidson",NC,Liberal Arts,21,92,61427,37207,23834,15,21351,58600,2020
+5,"Swarthmore College, Swarthmore",PA,Liberal Arts,16,84,62973,40221,37474,2,22150,48486,2021
+6,"Vanderbilt University, Nashville",TN,Private,11,85,62011,40021,22372,20,20926,60507,2020
+7,"Rice University, Houston",TX,Private,17,84,56343,34856,13730,21,22355,60158,2020
+8,"Pomona College, Claremont",CA,Liberal Arts,14,89,62963,41537,0,0,16146,52931,2020
+9,"Yale University, New Haven",CT,Private,8,83,62838,45808,0,0,15382,65317,2021
+10,"University of North Carolina at Chapel Hill, Chapel Hill",NC,Public,26,85,45488,14804,6784,8,19695,49786,2020
+11,"Duke University, Durham",NC,Private,9,85,65347,41873,20714,21,19932,76103,2021
+12,"Kenyon College, Gambier",OH,Liberal Arts,25,90,62505,38013,13311,22,20604,44255,2020
+13,"Williams College, Williamstown",MA,Liberal Arts,20,92,63234,43650,0,0,14422,58742,2020
+14,"Wesleyan University, Middletown",CT,Liberal Arts,23,85,63458,41531,48032,1,22863,51014,2020
+15,"California Institute of Technology, Pasadena",CA,Private,10,90,60254,37540,0,0,11813,73367,2021
+16,"Middlebury College, Middlebury",VT,Liberal Arts,18,87,62106,39285,0,0,17631,53356,2021
+17,"Massachusetts Institute of Technology, Cambridge",MA,Private,8,80,60896,37087,0,0,19243,91420,2021
+18,"Grinnell College, Grinnell",IA,Liberal Arts,26,88,59936,37087,16968,45,16268,45178,2020
+19,"Colgate University, Hamilton",NY,Liberal Arts,28,86,64500,41390,0,0,21784,61795,2020
+20,"Amherst College, Amherst",MA,Liberal Arts,16,90,65697,47326,0,0,13786,57033,2020
+21,"Stanford University, Stanford",CA,Private,5,75,61062,41646,8980,0,18700,81606,2020
+22,"Thomas Aquinas College, Santa Paula",CA,Liberal Arts,83,66,31760,15841,0,0,16024,-390,2021
+23,"Emory University, Atlanta",GA,Private,28,83,60922,37594,22538,5,24597,58139,2021
+24,"University of Richmond, Richmond",VA,Liberal Arts,31,78,60169,37244,23692,28,22475,61477,2021
+25,"Vassar College, Poughkeepsie",NY,Liberal Arts,24,88,63610,43023,0,0,17229,47128,2020
+26,"Haverford College, Haverford",PA,Liberal Arts,23,93,65719,42552,0,0,15371,56497,2020
+27,"Dartmouth College, Hanover",NH,Private,10,84,65961,42178,0,0,22236,66336,2020
+28,"Bowdoin College, Brunswick",ME,Liberal Arts,15,82,63069,39033,1000,5,26167,54432,2020
+29,"Wellesley College, Wellesley",MA,Liberal Arts,31,78,61739,39890,0,0,13291,56950,2021
+30,"Carleton College, Northfield",MN,Liberal Arts,21,93,63659,33985,3095,15,18407,46042,2020
+31,"Brown University, Providence",RI,Private,9,83,62692,40862,9452,0,23602,59818,2020
+32,"Hamilton College, Clinton",NY,Liberal Arts,28,86,62552,38847,0,0,18704,57725,2020
+33,"University of Pennsylvania, Philadelphia",PA,Private,9,82,65289,40044,0,0,20005,77788,2021
+34,"Bates College, Lewiston",ME,Liberal Arts,25,82,62656,38897,0,0,19386,53707,2020
+35,"Cornell University, Ithaca",NY,Private,12,90,62792,37604,0,0,21233,71241,2020
+36,"Hillsdale College, Hillsdale",MI,Liberal Arts,52,73,35704,7942,5531,83,24859,700,2021
+37,"Colorado College, Colorado Springs",CO,Liberal Arts,18,81,62020,38408,11554,11,20301,41942,2020
+38,"Colby College, Waterville",ME,Liberal Arts,27,83,63259,41077,500,0,21872,52015,2020
+39,"Wheaton College, Wheaton",IL,Liberal Arts,71,83,42895,20317,6428,37,25591,43177,2020
+40,"Barnard College, New York",NY,Liberal Arts,22,85,64129,38811,0,0,18265,56487,2020
+41,"Macalester College, St. Paul",MN,Liberal Arts,37,89,60577,34481,11856,26,24645,46120,2021
+42,"University of Virginia, Charlottesville",VA,Public,27,88,55351,19383,7277,4,22333,57646,2020
+43,"Smith College, Northampton",MA,Liberal Arts,42,86,61803,38335,15982,12,25093,43330,2021
+44,"Whitman College, Walla Walla",WA,Liberal Arts,39,82,59745,28446,9104,55,19053,42080,2021
+45,"Northwestern University, Evanston",IL,Private,14,83,65844,37596,2480,8,19721,65031,2021
+46,"University of Notre Dame, Notre Dame",IN,Private,23,93,62208,32942,15804,12,27401,69245,2021
+47,"Georgetown University, Washington",DC,Private,19,93,64981,36967,0,0,22877,82347,2020
+48,"College of the Holy Cross, Worcester",MA,Liberal Arts,42,91,61359,32165,33808,4,28607,62862,2020
+49,"Claremont McKenna College, Claremont",CA,Liberal Arts,11,82,64367,40392,15732,10,23669,63461,2020
+50,"Harvey Mudd College, Claremont",CA,Liberal Arts,13,94,67405,35546,10546,46,24275,79321,2020
+51,"Pitzer College, Claremont",CA,Liberal Arts,11,79,64041,35337,4687,1,19297,46114,2021
+52,"University of Florida, Gainesville",FL,Public,49,70,40487,6793,2437,11,21339,50750,2020
+53,"Johns Hopkins University, Baltimore",MD,Private,16,90,65693,34449,30165,3,23901,68263,2021
+54,"Boston College, Chestnut Hill",MA,Private,32,92,64686,34639,19189,3,20460,67098,2021
+55,"Centre College, Danville",KY,Liberal Arts,74,76,49955,25576,18766,89,26172,44471,2021
+56,"Scripps College, Claremont",CA,Liberal Arts,26,81,65538,34851,19712,23,20500,46470,2020
+57,"Washington University in St. Louis, St. Louis",MO,Private,15,90,65341,35639,8665,18,23845,62431,2020
+58,"Principia College, Elsah",IL,Liberal Arts,81,72,39772,24607,22664,91,23391,460,2021
+59,"Lafayette College, Easton",PA,Liberal Arts,31,90,63479,35405,23469,13,27185,69368,2020
+60,"Sewanee: The University of the South, Sewanee",TN,Liberal Arts,66,73,50608,26235,10883,48,21196,38551,2020
+61,"University of Minnesota, Twin Cities Campus, Minneapolis",MN,Public,44,58,32208,9371,4992,10,26302,48460,2021
+62,"Brigham Young University, Provo",UT,Private,46,34,17964,4936,3944,37,14500,57013,2021
+63,"St. Olaf College, Northfield",MN,Liberal Arts,49,89,53986,28611,13290,63,28509,45267,2020
+64,"Tufts University, Medford",MA,Private,17,87,65951,37099,500,3,26535,68495,2021
+65,"Truman State University, Kirksville",MO,Public,76,59,22865,6798,5322,60,23714,42688,2021
+66,"Mount Holyoke College, South Hadley",MA,Liberal Arts,55,73,56896,30622,16888,41,23327,43403,2020
+67,"Bucknell University, Lewisburg",PA,Liberal Arts,30,81,62585,23905,13808,15,22735,69299,2020
+68,"Oberlin College, Oberlin",OH,Liberal Arts,32,74,65161,32355,13167,67,24564,37624,2020
+69,"University of California, Berkeley, Berkeley",CA,Public,18,77,54616,22100,5925,4,18289,62264,2020
+70,"Lehigh University, Bethlehem",PA,Private,32,75,60309,33033,12424,9,32186,76726,2021
+71,"College of William and Mary, Williamsburg",VA,Public,34,84,53440,13959,6673,7,26341,56434,2021
+72,"Skidmore College, Saratoga Springs",NY,Liberal Arts,39,90,62693,38495,12000,1,22609,43656,2020
+73,"Denison University, Granville",OH,Liberal Arts,50,75,58938,34171,18537,92,27091,48022,2020
+74,"University of Wisconsin — Madison, Madison",WI,Public,49,52,38706,9877,3876,9,26337,51716,2020
+75,"North Carolina State University, Raleigh",NC,Public,53,48,37269,10080,6531,6,20341,48102,2021
+76,"University of California, Los Angeles, Los Angeles",CA,Public,18,70,53577,18863,4539,6,20672,59497,2021
+77,"University of Maryland, College Park, College Park",MD,Public,48,69,43074,8744,6657,19,24996,58773,2021
+78,"Kalamazoo College, Kalamazoo",MI,Liberal Arts,71,77,52629,27008,16358,85,28441,50261,2021
+79,"Wake Forest University, Winston-Salem",NC,Private,36,78,62073,35644,16055,10,34324,60105,2020
+80,"Ohio State University, Columbus",OH,Public,55,66,40240,9254,6418,29,26519,43548,2021
+81,"State University of New York College at Geneseo, Geneseo",NY,Public,60,65,30071,5752,2790,20,23515,46984,2021
+82,"Franklin & Marshall College, Lancaster",PA,Liberal Arts,40,78,63597,39589,12636,3,27313,55485,2021
+83,"University of Michigan, Ann Arbor",MI,Public,30,73,53875,14997,7536,25,26914,57258,2020
+84,"Florida State University, Tallahassee",FL,Public,55,62,32792,4854,2282,10,24046,44298,2020
+85,"Binghamton University, State University of New York, Vestal",NY,Public,46,64,36540,8104,7237,5,25918,58865,2021
+86,"Bryn Mawr College, Bryn Mawr",PA,Liberal Arts,42,78,62645,36339,10833,10,24653,51250,2021
+87,"Gustavus Adolphus College, St. Peter",MN,Liberal Arts,63,79,52288,26394,16668,100,37188,50216,2021
+88,"Trinity University, San Antonio",TX,Private,48,70,50484,25794,16583,81,35762,53840,2021
+89,"DePauw University, Greencastle",IN,Liberal Arts,63,71,57222,30910,16764,91,26541,47867,2020
+90,"University of Southern California, Los Angeles",CA,Private,16,78,66018,30691,19014,27,27976,67002,2020
+91,"University of Illinois at UrbanaChampaign, Champaign",IL,Public,61,69,42656,13525,4736,19,23654,55790,2021
+92,"University of Georgia, Athens",GA,Public,54,59,41007,8661,2161,11,21983,45824,2021
+93,"Berea College, Berea",KY,Liberal Arts,35,42,7209,3864,0,0,6643,33489,2021
+94,"Clark University, Worcester",MA,Private,54,74,51321,25830,16362,68,25320,43475,2021
+95,"New Mexico Institute of Mining and Technology, Socorro",NM,Public,34,21,27385,5437,6651,54,20211,53797,2020
+96,"University of Rochester, Rochester",NY,Private,35,69,62983,35029,13617,53,30032,55795,2020
+97,"Dickinson College, Carlisle",PA,Liberal Arts,48,80,62976,32828,10151,31,25106,52139,2021
+98,"Illinois Wesleyan University, Bloomington",IL,Liberal Arts,61,78,54000,23439,15760,91,32244,54992,2021
+99,"Gettysburg College, Gettysburg",PA,Liberal Arts,44,77,61318,32473,12401,42,27505,51337,2021
+100,"College of Wooster, Wooster",OH,Liberal Arts,58,67,56341,29604,19329,89,25095,43542,2020
+101,"Reed College, Portland",OR,Liberal Arts,41,65,64382,39275,0,0,19097,36433,2021
+102,"Elon University, Elon",NC,Private,52,72,43489,13819,6603,28,27048,43619,2021
+103,"Santa Clara University, Santa Clara",CA,Private,49,79,59801,23064,13120,43,27144,68597,2020
+104,"Rhodes College, Memphis",TN,Liberal Arts,59,79,55550,26122,18642,84,27170,49569,2021
+105,"University of Washington, Seattle",WA,Public,56,60,46295,14956,5500,5,21308,52997,2021
+106,"Connecticut College, New London",CT,Liberal Arts,39,74,64612,35822,0,0,28745,50367,2021
+107,"Occidental College, Los Angeles",CA,Liberal Arts,40,83,64966,35670,9928,30,30459,50361,2020
+108,"Bentley University, Waltham",MA,Private,46,84,60303,29106,16761,33,30961,74957,2021
+109,"Union College, Schenectady",NY,Liberal Arts,42,78,63440,33871,9025,53,29107,62010,2020
+110,"College of New Jersey, Ewing",NJ,Public,48,76,39121,12023,5330,14,33966,55958,2020
+111,"Yeshiva University, New York",NY,Private,82,56,52797,26168,21840,36,24517,54806,2020
+112,"Creighton University, Omaha",NE,Private,74,69,48165,22568,14200,68,34050,57186,2020
+113,"Trinity College, Hartford",CT,Liberal Arts,35,76,63948,41718,24836,6,27830,55552,2021
+114,"Brandeis University, Waltham",MA,Private,36,83,63744,32294,17895,10,29054,58705,2020
+115,"Hope College, Holland",MI,Liberal Arts,82,74,40526,18071,8286,56,32086,43083,2020
+116,"Wofford College, Spartanburg",SC,Liberal Arts,79,66,51260,29581,15057,65,25205,46520,2021
+117,"New College of Florida, Sarasota",FL,Public,60,53,39459,8401,2293,80,18095,865,2020
+118,"Baruch College of the City University of New York, New York",NY,Public,27,40,35831,6874,5005,1,7565,53347,2020
+119,"Villanova University, Villanova",PA,Private,48,85,60860,29617,14067,11,35517,72731,2020
+120,"Georgia Institute of Technology, Atlanta",GA,Public,33,35,43240,9621,4367,11,25636,74097,2020
+121,"Muhlenberg College, Allentown",PA,Liberal Arts,55,80,57250,26036,11792,58,29660,55678,2021
+122,"Drake University, Des Moines",IA,Private,70,65,43465,16765,12889,72,32030,55021,2020
+123,"University of Miami, Coral Gables",FL,Private,38,66,58897,25891,18846,35,27326,53012,2021
+124,"University of Pittsburgh, Pittsburgh",PA,Public,54,69,41551,8131,11460,5,36060,49051,2020
+125,"Furman University, Greenville",SC,Liberal Arts,68,82,59634,31609,17166,68,25990,48315,2021
+126,"George Washington University, Washington",DC,Private,44,71,63390,29967,18756,36,30788,64511,2020
+127,"Transylvania University, Lexington",KY,Liberal Arts,85,65,45319,22968,15372,93,27989,41298,2020
+128,"University of South Florida, Tampa",FL,Public,49,35,27165,6888,2585,11,22225,41242,2020
+129,"California State University, Long Beach, Long Beach",CA,Public,35,15,25030,6549,2356,17,17058,47320,2021
+130,"Case Western Reserve University, Cleveland",OH,Private,37,60,59999,26973,22087,61,32938,67572,2021
+131,"University of California, San Diego, La Jolla",CA,Public,32,53,52452,17610,9195,4,22175,59878,2021
+132,"University of California, Santa Barbara, Santa Barbara",CA,Public,36,72,53764,17961,12066,4,21006,51654,2020
+133,"Appalachian State University, Boone",NC,Public,64,41,29614,8098,2768,5,21610,35951,2020
+134,"Lawrence University, Appleton",WI,Liberal Arts,73,64,53877,29082,18007,80,33592,41865,2021
+135,"Knox College, Galesburg",IL,Liberal Arts,69,74,52319,27794,15785,83,28886,42501,2021
+136,"University of Texas at Austin, Austin",TX,Public,42,52,47205,9130,6047,2,27454,53645,2020
+137,"Stony Brook University, State University of New York, Stony Brook",NY,Public,42,52,37524,7315,4230,8,24857,56491,2021
+138,"Miami University, Oxford",OH,Public,64,68,43769,8666,7043,45,29113,46374,2020
+139,"Drury University, Springfield",MO,Private,82,42,34135,14966,8263,77,25345,32414,2020
+140,"St. Lawrence University, Canton",NY,Liberal Arts,48,81,62796,31545,20225,76,27523,46367,2020
+141,"Virginia Polytechnic Institute and State University, Blacksburg",VA,Public,71,63,37684,6820,3526,19,27712,58461,2020
+142,"Pepperdine University, Malibu",CA,Private,37,79,63152,37299,18974,31,32538,61541,2020
+143,"University of Connecticut, Storrs",CT,Public,50,69,46982,8681,6519,23,24925,53371,2020
+144,"Clemson University, Clemson",SC,Public,51,64,42631,8595,5280,45,29584,49282,2020
+145,"Purdue University, West Lafayette",IN,Public,60,42,40675,11669,6697,17,28461,53231,2020
+146,"Agnes Scott College, Decatur",GA,Liberal Arts,68,76,48808,27280,22131,70,27201,40054,2020
+147,"Gonzaga University, Spokane",WA,Private,69,70,49231,19336,12083,87,29846,53763,2020
+148,"University of Texas at Dallas, Richardson",TX,Public,62,51,42385,8668,11813,26,19968,50179,2021
+149,"Emerson College, Boston",MA,Private,50,74,58323,17073,14675,18,23897,44528,2020
+150,"Lewis & Clark College, Portland",OR,Liberal Arts,69,67,57189,29316,13382,54,25883,43721,2021
+151,"Beloit College, Beloit",WI,Liberal Arts,68,66,53620,25776,17256,73,29036,38174,2020
+152,"Stevens Institute of Technology, Hoboken",NJ,Private,42,35,61494,13371,17765,78,26473,83666,2021
+153,"University of Minnesota, Morris, Morris",MN,Public,63,56,22221,9921,3727,26,24618,39483,2021
+154,"Rutgers University — New Brunswick, Piscataway",NJ,Public,58,61,42043,10938,8276,4,25708,54523,2020
+155,"Franciscan University of Steubenville, Steubenville",OH,Private,76,62,33565,10022,5438,55,33020,35320,2020
+156,"Cornell College, Mount Vernon",IA,Liberal Arts,74,59,47375,23415,18292,89,25629,41501,2021
+157,"Carnegie Mellon University, Pittsburgh",PA,Private,27,69,65067,29999,10867,6,31802,71964,2020
+158,"Earlham College, Richmond",IN,Liberal Arts,63,65,54386,30343,12143,32,27038,31881,2020
+159,"Boston University, Boston",MA,Private,36,78,64255,29888,17594,11,38743,60444,2020
+160,"Christendom College, Front Royal",VA,Liberal Arts,89,69,34188,8315,8785,46,31384,-670,2020
+161,"Goshen College, Goshen",IN,Liberal Arts,54,53,41991,20122,13569,62,27049,36468,2020
+162,"Tulane University, New Orleans",LA,Private,30,66,63940,28261,21325,37,31213,53207,2020
+163,"Augustana College, Rock Island",IL,Liberal Arts,53,73,49026,20526,16568,95,31607,50184,2020
+164,"James Madison University, Harrisonburg",VA,Public,65,63,36017,7515,3172,1,23382,53272,2021
+165,"Samford University, Birmingham",AL,Private,81,50,38328,13977,9636,67,26788,46421,2020
+166,"Butler University, Indianapolis",IN,Private,69,64,49495,18721,11979,82,35719,52452,2021
+167,"University of Delaware, Newark",DE,Public,65,70,44114,8988,7037,38,32899,54629,2020
+168,"University of Portland, Portland",OR,Private,61,71,52210,21962,14965,83,25889,50827,2021
+169,"College of Saint Benedict, Saint Joseph",MN,Liberal Arts,82,75,51174,25683,15708,78,39987,46984,2020
+170,"St. Mary's College of Maryland, St. Mary's City",MD,Public,81,72,42712,11038,4021,30,24308,48971,2021
+171,"Sarah Lawrence College, Bronxville",NY,Liberal Arts,54,76,66843,34699,16582,63,18293,38959,2021
+172,"University of WisconsinLa Crosse, La Crosse",WI,Public,75,32,21992,5711,1583,4,26376,44142,2021
+173,"Hunter College of the City University of New York, New York",NY,Public,34,22,32971,6526,3152,7,13226,45403,2021
+174,"American University, Washington",DC,Private,47,74,58490,22752,13989,21,31857,55464,2020
+175,"New York University, New York",NY,Private,33,69,66671,24178,7512,9,28211,57986,2020
+176,"Hendrix College, Conway",AR,Liberal Arts,84,60,53411,28911,25756,91,29959,40513,2021
+177,"University of Maryland, Baltimore County, Baltimore",MD,Public,62,36,35849,7951,7964,20,25416,54273,2020
+178,"University of Central Florida, Orlando",FL,Public,49,42,32654,4897,3459,5,23354,43669,2021
+179,"Luther College, Decorah",IA,Liberal Arts,72,78,48014,22162,16062,33,36532,41777,2021
+180,"Texas A&M University, College Station",TX,Public,70,47,40087,9304,3354,19,24305,52073,2021
+181,"University of Missouri, Columbia",MO,Public,76,41,36744,8818,5065,29,24991,45506,2020
+182,"University of California, Irvine, Irvine",CA,Public,35,67,54113,17249,8541,6,20950,56193,2021
+183,"Saint John's University, Collegeville",MN,Liberal Arts,80,69,50034,25341,15184,74,37982,56758,2020
+184,"University of Alabama, Tuscaloosa",AL,Public,53,39,35093,9265,12209,30,30031,41690,2020
+185,"College of the Atlantic, Bar Harbor",ME,Liberal Arts,72,53,52326,31543,9693,44,24474,27387,2021
+186,"Siena College, Loudonville",NY,Liberal Arts,57,71,43364,17459,7106,55,32733,55334,2020
+187,"University of Arkansas, Fayetteville",AR,Public,63,32,32735,6696,4895,19,23573,43086,2021
+188,"University of Northern Iowa, Cedar Falls",IA,Public,52,37,27275,4446,3378,18,23291,41684,2021
+189,"University of Tulsa, Tulsa",OK,Private,38,55,52289,5905,17829,64,28800,44198,2021
+190,"William Jewell College, Liberty",MO,Liberal Arts,65,58,41129,19677,15269,46,30502,39737,2021
+191,"State University of New York College at Oneonta, Oneonta",NY,Public,42,53,29887,4642,2827,19,16024,41481,2021
+192,"University of Dayton, Dayton",OH,Private,60,55,52803,20434,12540,63,34844,51335,2021
+193,"Millsaps College, Jackson",MS,Liberal Arts,56,63,48967,23345,20354,90,28285,45752,2021
+194,"Southwestern University, Georgetown",TX,Liberal Arts,51,62,50536,26040,18514,91,31548,48037,2021
+195,"Maryville University of Saint Louis, St. Louis",MO,Private,70,49,39893,14342,9559,32,32222,44841,2021
+196,"State University of New York at New Paltz, New Paltz",NY,Public,42,56,31198,4763,1830,1,25680,45924,2020
+197,"Marist College, Poughkeepsie",NY,Private,39,64,48791,15422,7619,46,34137,55319,2020
+198,"University of Oklahoma, Norman",OK,Public,80,41,33533,5978,2108,14,23711,46318,2021
+199,"Austin College, Sherman",TX,Liberal Arts,56,70,48994,25868,19297,34,36795,47431,2021
+200,"Penn State University Park, University Park",PA,Public,50,62,44191,6911,3757,17,37321,47303,2020
+201,"Houghton College, Houghton",NY,Liberal Arts,92,68,38279,11515,9046,16,26817,38466,2021
+202,"Saint Louis University, St. Louis",MO,Private,59,60,50151,20223,13880,52,36288,55824,2020
+203,"Illinois Institute of Technology, Chicago",IL,Private,51,26,55098,28196,19854,65,32072,68333,2021
+204,"San Diego State University, San Diego",CA,Public,34,33,34954,9822,2300,8,18101,47869,2021
+205,"University of North Florida, Jacksonville",FL,Public,61,24,30660,6034,2970,16,19255,42305,2020
+206,"Oklahoma State University, Stillwater",OK,Public,76,36,29467,6623,5553,41,22821,43121,2021
+207,"University of Science and Arts of Oklahoma, Chickasha",OK,Public,63,21,21824,8198,2779,26,19708,30681,2021
+208,"Hobart and William Smith Colleges, Geneva",NY,Liberal Arts,49,76,61953,28303,15535,53,34922,48240,2020
+209,"University of Massachusetts Amherst, Amherst",MA,Public,61,68,42988,9742,4310,20,29727,49477,2020
+210,"University of North Carolina Wilmington, Wilmington",NC,Public,57,49,31312,2441,3853,0,26191,37920,2021
+211,"University of California, Davis, Davis",CA,Public,39,50,55069,17058,5626,9,20131,57682,2020
+212,"Marquette University, Milwaukee",WI,Private,68,56,50084,17855,10294,83,35513,54827,2021
+213,"Missouri University of Science and Technology, Rolla",MO,Public,85,20,37364,7408,5080,17,27870,64830,2020
+214,"University of Dallas, Irving",TX,Liberal Arts,86,67,49068,23329,16730,88,32678,44899,2021
+215,"University at Buffalo, the State University of New York, Buffalo",NY,Public,59,55,38734,5444,6158,2,21939,48913,2021
+216,"Iowa State University of Science and Technology, Ames",IA,Public,88,36,30391,6904,2916,52,28415,46970,2020
+217,"University of North Carolina at Asheville, Asheville",NC,Public,72,40,32382,6620,2654,10,21708,36900,2021
+218,"St. John's College, Annapolis",MD,Liberal Arts,85,64,60786,30553,19258,71,29135,34286,2020
+219,"University of Denver, Denver",CO,Private,78,61,57183,28590,14724,58,29078,51838,2021
+220,"Simmons College, Boston",MA,Private,54,72,53497,23700,14030,49,26715,52218,2020
+221,"University of Tennessee, Knoxville",TN,Public,74,43,41525,8972,3685,24,23378,42907,2021
+222,"Salisbury University, Salisbury",MD,Public,56,50,29404,5976,2322,21,23907,48252,2021
+223,"Wabash College, Crawfordsville",IN,Liberal Arts,70,65,51213,23454,16631,5,30043,50850,2021
+224,"Oklahoma City University, Oklahoma City",OK,Private,67,49,41721,16045,18931,50,27612,39824,2020
+225,"Michigan State University, East Lansing",MI,Public,68,49,46428,9583,8241,11,25532,50361,2020
+226,"Whitworth University, Spokane",WA,Private,74,68,50869,22990,16897,78,25641,41177,2021
+227,"Mercer University, Macon",GA,Private,68,49,46146,24042,19145,74,29931,47162,2021
+228,"University of Nebraska — Lincoln, Lincoln",NE,Public,71,30,33570,7060,6399,9,23831,44428,2021
+229,"University of San Diego, San Diego",CA,Private,46,65,58454,24352,14025,27,30512,57162,2020
+230,"Bradley University, Peoria",IL,Private,65,51,42123,14953,10012,70,26801,52838,2020
+231,"Purchase College, State University of New York, Purchase",NY,Public,40,61,32022,6533,2040,14,26746,34288,2021
+232,"University of South Carolina, Columbia",SC,Public,63,55,41515,5087,4924,51,28098,41427,2021
+233,"Juniata College, Huntingdon",PA,Liberal Arts,75,69,53296,25068,18054,80,32674,45709,2020
+234,"Union University, Jackson",TN,Private,69,62,40360,5806,12889,32,29471,37504,2021
+235,"State University of New York at Plattsburgh, Plattsburgh",NY,Public,46,38,29407,6680,3457,33,28847,40772,2021
+236,"Western Carolina University, Cullowhee",NC,Public,42,35,27455,6072,1780,8,23815,35181,2021
+237,"Providence College, Providence",RI,Private,62,85,59787,22919,20050,31,31774,59593,2021
+238,"Coe College, Cedar Rapids",IA,Liberal Arts,56,58,48749,25173,20313,64,31411,43768,2020
+239,"Florida International University, Miami",FL,Public,50,27,30604,5673,1316,7,18624,45344,2020
+240,"Wheaton College, Norton",MA,Liberal Arts,71,75,60385,31121,12486,71,29156,45675,2021
+241,"Arizona State University at the Tempe campus, Tempe",AZ,Public,83,41,37072,8929,7688,34,22567,45648,2021
+242,"St. John's College, Santa Fe",NM,Liberal Arts,81,44,60562,29371,10805,72,25684,32394,2021
+243,"Christopher Newport University, Newport News",VA,Public,58,57,35929,5691,2219,18,28798,42363,2020
+244,"Hollins University, Roanoke",VA,Liberal Arts,57,56,47689,28383,23067,81,37969,36315,2020
+245,"Rockhurst University, Kansas City",MO,Private,78,57,45124,3172,20636,20,25107,47697,2021
+246,"Duquesne University, Pittsburgh",PA,Private,75,67,46274,18013,10804,76,35064,53860,2020
+247,"Loyola Marymount University, Los Angeles",CA,Private,54,71,59076,19332,9432,50,30915,56114,2021
+248,"Belmont University, Nashville",TN,Private,81,54,40979,12071,7438,32,28055,38167,2020
+249,"Louisiana Tech University, Ruston",LA,Public,66,31,32073,8304,3011,16,16783,41439,2021
+250,"Southern Methodist University, Dallas",TX,Private,54,72,64852,19697,20479,49,34484,53019,2020
+251,"Loyola University Chicago, Chicago",IL,Private,61,61,55202,18853,13220,52,31427,49775,2021
+252,"University of Puget Sound, Tacoma",WA,Liberal Arts,77,66,57760,23451,14886,93,28192,51179,2020
+253,"Auburn University, Auburn University",AL,Public,83,40,41151,7531,6903,27,27706,46313,2020
+254,"LeTourneau University, Longview",TX,Private,47,31,39743,15084,8037,15,37953,50743,2021
+255,"Ramapo College of New Jersey, Mahwah",NJ,Public,52,63,35731,9176,10921,15,30472,49688,2021
+256,"Clarkson University, Potsdam",NY,Private,62,54,58912,29158,19191,74,28248,69079,2021
+257,"Louisiana State University and Agricultural & Mechanical College, Baton Rouge",LA,Public,75,35,38669,10195,5098,20,23026,45187,2020
+258,"Geneva College, Beaver Falls",PA,Private,72,53,35290,15271,9952,40,33232,38370,2021
+259,"Rensselaer Polytechnic Institute, Troy",NY,Private,39,63,67009,28488,15860,70,42005,81061,2020
+260,"Hanover College, Hanover",IN,Liberal Arts,65,65,46422,23645,18221,90,30358,44508,2020
+261,"Rochester Institute of Technology, Rochester",NY,Private,59,25,48714,19019,10000,38,25702,57637,2021
+262,"University of Louisville, Louisville",KY,Public,73,20,34919,8707,7908,20,22840,37765,2020
+263,"Fairfield University, Fairfield",CT,Private,73,74,59894,15606,15452,55,27739,68883,2020
+264,"Western Washington University, Bellingham",WA,Public,83,41,33133,9102,2020,3,22229,42888,2020
+265,"Syracuse University, Syracuse",NY,Private,54,65,60532,26770,10290,21,33962,55994,2021
+266,"Spelman College, Atlanta",GA,Liberal Arts,56,71,39804,14902,0,0,32906,45857,2020
+267,"Fordham University, New York",NY,Private,47,80,64043,23821,14594,44,35369,55423,2020
+268,"Valparaiso University, Valparaiso",IN,Private,84,62,47998,22367,13003,62,35048,48261,2021
+269,"Seattle Pacific University, Seattle",WA,Private,83,61,48577,26023,20277,66,29536,43867,2020
+270,"West Chester University of Pennsylvania, West Chester",PA,Public,51,41,28784,5565,4128,3,30481,45927,2020
+271,"Saint Michael's College, Colchester",VT,Private,79,74,53684,21902,14525,64,36288,47095,2021
+272,"Washington & Jefferson College, Washington",PA,Liberal Arts,40,73,54673,13325,15129,78,26671,49352,2020
+273,"University of St. Thomas, St. Paul",MN,Private,88,62,48824,18380,15098,24,36887,53536,2020
+274,"Centenary College of Louisiana, Shreveport",LA,Private,64,47,48090,22005,15863,98,27689,39645,2020
+275,"University of Mississippi, University",MS,Public,83,34,32386,7574,7363,33,27079,40023,2020
+276,"Loyola University Maryland, Baltimore",MD,Private,58,77,60004,22579,14675,27,33481,62340,2021
+277,"University of Evansville, Evansville",IN,Private,84,55,44639,22812,17045,60,28747,39362,2021
+278,"College at Brockport, State University of New York, Brockport",NY,Public,50,53,30391,5883,4010,4,27925,39887,2020
+279,"Baldwin Wallace University, Berea",OH,Private,66,46,39051,16225,12080,48,31938,44668,2020
+280,"Indiana University Bloomington, Bloomington",IN,Public,77,56,43901,10205,5446,36,27585,45519,2021
+281,"Chapman University, Orange",CA,Private,48,60,61967,15772,17071,44,28687,51291,2020
+282,"Texas Tech University, Lubbock",TX,Public,64,34,30040,7189,3289,14,27596,45673,2021
+283,"Towson University, Towson",MD,Public,59,44,33080,8244,4867,10,26000,48762,2020
+284,"Howard University, Washington",DC,Private,47,45,40697,7308,24835,25,31495,46771,2021
+285,"Lipscomb University, Nashville",TN,Private,55,50,41766,3855,13435,61,29954,38106,2020
+286,"St. John Fisher College, Rochester",NY,Private,66,64,42379,14990,10061,76,33709,43979,2020
+287,"St. Bonaventure University, St. Bonaventure",NY,Private,72,56,43970,18872,12572,91,35951,45659,2021
+288,"Rollins College, Winter Park",FL,Private,59,64,60084,26679,19134,55,27265,42860,2021
+289,"Colorado State University, Fort Collins",CO,Public,81,37,39824,6751,4214,17,23112,44671,2020
+290,"Georgia College & State University, Milledgeville",GA,Public,77,45,40330,4383,1610,3,23295,37511,2021
+291,"University of Colorado Boulder, Boulder",CO,Public,85,43,49518,10411,10019,33,25787,48726,2020
+292,"University of Iowa, Iowa City",IA,Public,79,46,39209,7552,4739,23,28205,48117,2021
+293,"Bethel University, St. Paul",MN,Private,96,64,45307,18130,10497,49,34051,43694,2020
+294,"University of Vermont, Burlington",VT,Public,74,67,51141,14680,8658,43,27759,44028,2021
+295,"University of California, Santa Cruz, Santa Cruz",CA,Public,57,50,55304,18188,5887,13,23048,44289,2020
+296,"Nazareth College of Rochester, Rochester",NY,Private,68,68,46102,15381,15594,70,35271,43565,2020
+297,"Xavier University, Cincinnati",OH,Private,75,61,47199,15707,13774,69,34125,49109,2021
+298,"University of California, Riverside, Riverside",CA,Public,56,42,55636,16817,12155,14,20472,47823,2021
+299,"University of Arizona, Tucson",AZ,Public,76,44,42822,10679,8099,30,23060,44173,2020
+300,"University of Oregon, Eugene",OR,Public,77,48,45861,7459,4014,21,24203,41072,2020
